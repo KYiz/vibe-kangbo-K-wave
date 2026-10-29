@@ -1,0 +1,15 @@
+# Installed dependencies and generated caches
+**/node_modules/
+**/.hyperframes/
+**/samples/
+tmp/
+
+# Local secrets and operating-system files
+**/.env
+**/.env.local
+**/.env.*.local
+**/credentials.json
+**/secrets.json
+**/secrets.*
+.DS_Store
+Thumbs.db
