@@ -1,0 +1,15 @@
+/renders/*
+!/renders/episode-01-v5-more-information-134s.mp4
+/visual-audit/
+/snapshots*/
+/compositions/*.bak
+!/compositions/film.pre-visual.html.bak
+/assets/film-mix-*.mp3
+/check-*.txt
+/check-*.json
+/render-*.log
+/debug.log
+/index-*.bak
+/.thumbnails/
+/.waveform-cache/
+/**/__pycache__/
